@@ -21,7 +21,7 @@ This is a project to optimize the data on https://commentstoart.com/days/instagr
 2. Then create a folder and open it in the terminal.
 3. Use this command in the terminal(if there are any errors, Google it):
 ```
-$ git clone https://example.com/
+$ git clone https://github.com/Tim-dotcom-admin/comments-to-art-my-data-optimization.git
 ```
 4. To install Node files, use the command:
 ```
